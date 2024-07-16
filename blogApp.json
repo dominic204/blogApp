@@ -1,0 +1,14 @@
+{
+    "endpoints": {
+        "login":"/login",
+        "register":"/register",
+        "details":"/details",
+        "addPost": "/addPost",
+        "getPosts":"/getPosts",
+        "getPostsById":"/getPost",
+        "updatePost":"/updatePost",
+        "deletePost":"/deletePost",
+        "addPostComment":"/addComment",
+        "getPostComments":"/getComments"
+    }
+}
